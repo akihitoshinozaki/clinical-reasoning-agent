@@ -18,8 +18,6 @@ The system outputs:
 - **Cited diagnoses** — surviving candidates with their supporting evidence citations
 - **Missingness report** — withheld candidates with the reason for withholding
 
-The contribution is not "more accurate diagnoses." It is **honesty through structural abstention**.
-
 ## Architecture
 
 ```
